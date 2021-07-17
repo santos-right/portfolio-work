@@ -1,0 +1,105 @@
+body {
+    font-family: dancingscript;
+}
+.col-md-4 img {
+    width: 110%;
+    height: auto;
+    border-radius: 50%;
+}
+.card-title {
+    text-align: center;
+    color: aqua;
+}
+.card-text  {
+    text-align: center;
+}
+.card-text > a {
+    color: aqua;
+}
+.card-row-grid{
+    margin-top: 10%;
+}
+.card-row-grid > h3 {
+    border-bottom: 2px dashed blue;
+}
+.card-row-grid >.card-deck{
+    margin-top: 2%;
+}
+.card-row {
+    margin-top: 3%;
+}
+.grid-layout {
+    margin-top: 10%;
+    font-size: large;
+    text-align: center;
+}
+.grid-layout > h3 {
+    margin-top: 10%;
+    margin-bottom: 7%;
+}
+.grid > .col-md-6 {
+    margin-top: 7%;
+    margin-left: 7%;
+}
+h3 {
+    text-align: center;
+    color: chocolate;
+}
+.col-md-3 {
+    font-size: large;
+    margin-left: 6%;
+}
+.andriod {
+    color: green;
+    font-size: xx-large;
+}
+.fa-react {
+    color: blue;
+    font-size: xx-large;
+}
+.fa-laravel {
+    color: red;
+    font-size: xx-large;
+}
+.col-md-3 > i{
+    font-size: xx-large;
+}
+footer {
+    background-color: black;
+    margin-top: 10%;
+
+}
+form > h3 {
+    color: white;
+    padding-top: 3%;
+}
+.col-form {
+    width: 20%;
+    margin-left: 20%;
+}
+.col-layout {
+    width: 20%;
+    margin-left: 1%;
+}
+.col-input {
+    width: 20%;
+    margin-left: 1%;
+}
+col button {
+    color: blue;
+}
+.code i {
+    color: white;
+    padding-left: 10px;
+}
+.love {
+    color: red;
+}
+
+@font-face{
+    font-family: "dancingscript";
+    font-style: normal;
+    font-weight: 900;
+    font-display: auto;
+    src: url("../webfonts-code/DancingScript-VariableFont_wght.ttf") format("truetype");
+}
